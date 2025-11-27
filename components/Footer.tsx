@@ -27,8 +27,8 @@ const Footer: React.FC = () => {
           <div className="md:w-2/3 grid grid-cols-1 sm:grid-cols-2 gap-8 print:flex print:gap-12 print:w-auto">
             <div>
               <h4 className="font-bold text-lg mb-4 text-blue-400 print:text-blue-700 print:mb-2 print:text-base">お問い合わせ</h4>
-              <p className="text-slate-400 print:text-slate-700 text-sm mb-2 print:mb-0">〒310-0035 茨城県水戸市東原3-2-1</p>
-              <p className="text-slate-400 print:text-slate-700 text-sm print:font-bold">TEL: 029-224-1111</p>
+              <p className="text-slate-400 print:text-slate-700 text-sm mb-2 print:mb-0">〒310-0851 茨城県水戸市千波町2369-3</p>
+              <p className="text-slate-400 print:text-slate-700 text-sm print:font-bold">TEL: 029-243-7718</p>
             </div>
             <div className="print:hidden">
               <h4 className="font-bold text-lg mb-4 text-blue-400">リンク</h4>
